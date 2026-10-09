@@ -1,0 +1,6 @@
+interface:
+  display_name: "薄肌生活思维"
+  short_description: "从身体、能力、持续投入与选择权出发，把薄肌思维用于具体生活决定"
+  default_prompt: "请用 $boji-life 分析我当前的生活选择，给出适合我的建议、一个可执行动作和调整条件。"
+policy:
+  allow_implicit_invocation: true
